@@ -1,3 +1,3 @@
-" Remap the Escape key to Control+Escape, as that sequence opens the Start menu in Windows,
-" and Control+Escape undoes pass-through mode in Vrome.
-map <C-`> <C-Esc>
+" Ctrl+v enables pass-through mode. By default, Ctrl+Esc disables it.
+" As within Windows Ctrl+Esc opens the Start menu, remap Esc to Ctrl+Esc.
+map <Esc> <C-Esc>
