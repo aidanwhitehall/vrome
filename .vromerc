@@ -1,3 +1,5 @@
 " Ctrl+v enables pass-through mode. By default, Ctrl+Esc disables it.
 " As within Windows Ctrl+Esc opens the Start menu, remap Esc to Ctrl+Esc.
 map <Esc> <C-Esc>
+
+set disablesites= trello.com, mail.google.com
