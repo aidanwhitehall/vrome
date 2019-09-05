@@ -2,4 +2,4 @@
 " As within Windows Ctrl+Esc opens the Start menu, remap Esc to Ctrl+Esc.
 map <Esc> <C-Esc>
 
-set disablesites=mail.google.com, app.pluralsight.com, trello.com, youtube.com
+set disablesites=atlassian.net, mail.google.com, app.pluralsight.com, trello.com, youtube.com
